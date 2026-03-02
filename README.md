@@ -4,6 +4,18 @@ Um gerenciador e validador de senhas desenvolvido em Python, disponível em duas
 
 ---
 
+## 💡 Motivação
+
+Este projeto faz parte da minha jornada de transição e aprofundamento na área de **cibersegurança**, com foco em **Blue Team**.
+
+Após participar de um processo seletivo para estágio na área, recebi um feedback valioso do entrevistador: meu currículo era voltado majoritariamente para Red Team, e ele me recomendou começar pelo Blue Team — caminho mais indicado para quem está iniciando na área. Além disso, ele apontou que Python é uma linguagem essencial para cibersegurança, especialmente em automação, sendo mais estratégico do que o foco que eu tinha em C e C++.
+
+A partir disso, comecei a estudar Python de forma direcionada e a desenvolver projetos práticos ligados à segurança, começando pelos mais simples — como este validador de senhas — com o objetivo de evoluir gradualmente para projetos mais complexos.
+
+> Este projeto é parte de um portfólio em construção, documentando minha evolução prática em Python aplicado à segurança da informação.
+
+---
+
 ## 📋 Funcionalidades
 
 - **Criar senha** — Adiciona uma nova senha à lista
