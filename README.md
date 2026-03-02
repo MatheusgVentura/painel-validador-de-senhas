@@ -17,4 +17,15 @@ Projeto em Python com interface gráfica em Tkinter para criação, edição, ex
 ## Como executar
 ```bash
 python gui.py
+```
+## Objetivo
+Este projeto foi desenvolvido com o objetivo de praticar:
 
+- lógica de programação
+- manipulação de listas
+- funções em Python
+- validação de dados
+- criação de interface gráfica com Tkinter
+
+## Observação
+As senhas são mascaradas visualmente na interface, tornando a exibição mais segura durante o uso da aplicação.
