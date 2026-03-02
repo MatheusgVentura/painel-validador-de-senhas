@@ -1,4 +1,4 @@
-# 🔐 Painel de Validador de Senhas
+# 🔐 Painel Validador de Senhas
 
 Um gerenciador e validador de senhas desenvolvido em Python, disponível em duas interfaces: **terminal (CLI)** e **interface gráfica (GUI)** com Tkinter.
 
